@@ -9,9 +9,10 @@
 **/.eslintrc
 **/.prettierrc
 **/.gitignore
-
+.history
 # tests
 **/__tests__
 **/__mocks__
 **/*.test.*
 react/testUtils/**
+.history
